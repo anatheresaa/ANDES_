@@ -13,5 +13,5 @@ st.markdown("""
             
             As datas de cada relatório na barra lateral estão escritas no formato aaaa-mm-dd. 
             
-            Em caso de dúvidas, entrar em contato pelo e-mail: rafa.costa.ramos@gmail.com.          
+            Em caso de dúvidas, entrar em contato pelo e-mail: anatheresafcm@gmail.com.          
             """)

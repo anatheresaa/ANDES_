@@ -120,7 +120,7 @@ with tab_4:
     # Mostrar a tabela de respostas
     st.title('Tabela de Respostas Incompletas')
     tabela_ativos_incompletas_df = pd.read_csv('tabela_ativos_incompletos_11_12.csv')
-    tabela_ativos_incompletas_df.drop(columns=tabela_ativos_incompletas_df.columns[0], axis=1, inplace=True)
     ultima_coluna = tabela_ativos_incompletas_df.columns[-1]
     tabela_ativos_incompletas_df[ultima_coluna] = (tabela_ativos_incompletas_df[ultima_coluna] * 100).round(2).astype(str) + '%'
+    tabela_ativos_incompletas_df.drop(columns=tabela_ativos_incompletas_df.columns[0], axis=1, inplace=True)
     st.dataframe(tabela_ativos_incompletas_df, use_container_width=True)

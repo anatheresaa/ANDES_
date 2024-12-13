@@ -37,23 +37,23 @@ with tab_1:
                 
                 # Criar a métrica de restaurantes registrados
                 with col_1:
-                        col_1.metric('Respostas Totais:', 408)
+                        col_1.metric('Respostas Totais:', 3199)
                         
                 # Criar a métrica de países registrados
                 with col_2:
-                        col_1.metric('Respostas Completas:', 208)
+                        col_1.metric('Respostas Completas:', 2242)
                         
                 # Criar a métrica de cidades registrados
                 with col_3:
-                        col_1.metric('Respostas Incompletas:', 200)
+                        col_1.metric('Respostas Incompletas:', 957)
                         
                 # Criar a métrica do total de avaliações feitas
                 with col_4:
-                        col_1.metric('Instituições de Ensino Citadas:', 61)
+                        col_1.metric('Instituições de Ensino Citadas:', 115)
 
         # Criar as métricas semenais
         with st.container():
-                st.title('Crescimento Semanal (03/12/2024 a 11/12/2024)')
+                st.title('Crescimento Semanal (09/12/2024 a 15/12/2024)')
                 col_1, col_2, col_3, col_4 = st.columns(4, gap='large')
                 
                 # Criar a métrica de restaurantes registrados

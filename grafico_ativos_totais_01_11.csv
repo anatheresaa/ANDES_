@@ -1,0 +1,118 @@
+,uf_instituicao,instituicao,contagem
+0,RJ,Universidade do Estado do Rio de Janeiro,77
+1,PE,Universidade Federal do Vale do São Francisco,70
+2,PR,Universidade Estadual de Londrina,68
+3,SP,Universidade Federal do ABC,62
+4,RS,Universidade Federal de Pelotas,54
+5,PR,Universidade Estadual do Oeste do Paraná,53
+6,RJ,Universidade Estadual do Norte Fluminense,51
+7,CE,Universidade Estadual do Ceará,51
+8,BA,Universidade Federal do Sul da Bahia,50
+9,BA,Universidade Estadual de Santa Cruz,48
+10,SP,Universidade Estadual de Campinas,48
+11,PE,Universidade Federal Rural de Pernambuco,40
+12,PR,Universidade Estadual do Paraná,38
+13,RJ,Universidade Federal do Rio de Janeiro,38
+14,RO,Universidade Federal de Rondônia,38
+15,PI,Universidade Federal do Piauí,37
+16,MT,Universidade do Estado de Mato Grosso,37
+17,PR,Universidade Estadual de Maringá,35
+18,MT,Universidade Federal do Mato Grosso,34
+19,BA,Universidade Estadual de Feira de Santana,33
+20,MG,Universidade Federal de Viçosa,32
+21,MA,Universidade Federal do Maranhão,30
+22,AL,Universidade Federal de Alagoas,30
+23,CE,Universidade Federal do Ceará,25
+24,AM,Universidade Federal do Amazonas,25
+25,RJ,Fundação de Apoio à Escola Técnica do Estado do Rio de Janeiro,25
+26,ES,Universidade Federal do Espírito Santo,25
+27,PR,Universidade Tecnológica Federal do Paraná,24
+28,MG,Universidade Federal de Uberlândia,23
+29,PA,Universidade do Estado do Pará,22
+30,SP,Universidade de São Paulo,22
+31,SC,Universidade do Estado de Santa Catarina,22
+32,AC,Universidade Federal do Acre,22
+33,MT,Universidade Federal de Rondonópolis,21
+34,MG,Universidade Federal de Lavras,20
+35,PR,Universidade Estadual de Ponta Grossa,19
+36,PR,Universidade Federal do Paraná,18
+37,CE,Universidade Regional do Cariri,18
+38,MS,Universidade Estadual de Mato Grosso do Sul,17
+39,PE,Universidade de Pernambuco,16
+40,SE,Universidade Federal de Sergipe,16
+41,RJ,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,16
+42,BA,Universidade do Estado da Bahia,15
+43,PA,Universidade Federal do Oeste do Pará,15
+44,BA,Universidade Estadual do Sudoeste da Bahia,14
+45,PA,Universidade Federal Rural da Amazônia,13
+46,DF,Universidade de Brasília,13
+47,SP,Universidade Federal de São Carlos,13
+48,RS,"Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",11
+49,PR,Universidade Estadual do Norte do Paraná,11
+50,DF,Universidade do Distrito Federal,11
+51,RJ,Universidade Federal Fluminense,11
+52,RR,Universidade Federal de Roraima,10
+53,PA,Universidade Federal do Pará,9
+54,PR,Universidade Federal da Integração Latino-Americana,8
+55,RS,Instituto Federal do Rio Grande do Sul,8
+56,MG,Universidade Federal dos Vales do Jequitinhonha e Mucuri,8
+57,SC,Universidade Federal da Fronteira Sul,8
+58,PI,Universidade Estadual do Piauí,8
+59,PE,Universidade Federal de Pernambuco,8
+60,MS,Universidade Federal de Dourados,8
+61,BA,Universidade Federal do Recôncavo da Bahia,8
+62,PB,Universidade Federal da Paraíba,8
+63,MG,Universidade Federal de Juiz de Fora,7
+64,PB,Universidade Federal de Campina Grande,7
+65,GO,Universidade Estadual de Goiás,7
+66,PB,Universidade Estadual da Paraíba,7
+67,RS,Universidade Federal de Santa Maria,6
+68,RS,Universidade Federal do Rio Grande do Sul,6
+69,MG,Universidade Federal de Ouro Preto,6
+70,RN,Universidade Federal do Rio Grande do Norte,5
+71,PE,Autarquia de Ensino Superior de Arco Verde Universidade Federal,4
+72,MG,Centro Federal de Educação Tecnológica de Minas Gerais,4
+73,PI,"Instituto Federal de Educação, Ciência e Tecnologia do Piauí",4
+74,RR,Universidade Estadual de Roraima,4
+75,RJ,Fundação Centro de Ciências e Educação Superior a Distância do Estado do Rio de Janeiro,3
+76,SP,Universidade Federal de São Paulo,3
+77,RN,Universidade Federal Rural do Semi-Árido,3
+78,TO,Universidade de Guripi,3
+79,MG,Universidade do Estado de Minas Gerais,3
+80,PR,Universidade Estadual do Centro-Oeste,3
+81,PI,Universidade Federal do Delta do Parnaíba,3
+82,BA,Universidade Federal da Bahia,3
+83,MG,Universidade Federal de São João del Rei,3
+84,PA,Universidade Federal do Sul e Sudeste do Pará,3
+85,AC,Colégio de Aplicação da Universidade Federal do Acre,2
+86,MG,Universidade Estadual de Montes Claros,2
+87,MG,Universidade Federal do Triângulo Mineiro,2
+88,GO,Instituto Federal de Goiás,2
+89,CE,Universidade da Integração Internacional da Lusofonia Afro-Brasileira,2
+90,AP,Universidade Federal do Amapá,2
+91,RJ,Universidade do Rio de Janeiro,2
+92,AP,Universidade Estado do Amapá,2
+93,PE,Universidade Federal do Agreste de Pernambuco,2
+94,PR,Instituto Federal do Paraná,2
+95,AM,Universidade Estadual do Amazonas,1
+96,SP,Universidade Estadual Paulista,1
+97,TO,Universidade Federal do Norte de Tocantins,1
+98,SP,Rede Municipal de Diadema,1
+99,SP,Instituto Federal de São Paulo,1
+100,SP,Faculdade de Medicina de Jundiaí,1
+101,BA,Universidade Federal do Oeste da Bahia,1
+102,BA,Ceep em Biotecnologia e Saúde,1
+103,RJ,Colégio de Aplicação da Universidade do Estado do Rio de Janeiro,1
+104,RS,Universidade de Santa Cruz do Sul,1
+105,GO,Instituto Federal de Goiás Campus Goiânia Oeste,1
+106,RS,Universidade Federal do Pampa,1
+107,MA,Universidade Estadual da Região Tocantina do Maranhão,1
+108,MG,Instituto Federal do Sudeste Mineiro,1
+109,RS,Eeiem Nhamandu Nhemopu'ã,1
+110,MG,Universidade Federal de Alfenas,1
+111,RO,Instituto Federal de Rondônia,1
+112,MT,Instituto Federal do Mato Grosso,1
+113,PA,Instituto Federal do Pará Campus Castanhal,1
+114,RJ,Universidade Federal do Estado do Rio de Janeiro,1
+115,RJ,Secretaria de Estado de Educação do Rio de Janeiro,1
+116,MA,Universidade Estadual do Maranhão,1

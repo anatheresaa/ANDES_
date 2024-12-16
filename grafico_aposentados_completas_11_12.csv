@@ -1,33 +1,47 @@
-,UF,Instituição de Ensino,Contagem
-0,PE,Autarquia de Ensino Superior de Arco Verde Universidade Federal,1
-1,MG,Centro Federal de Educação Tecnológica de Minas Gerais,6
-2,RJ,Fundação Centro de Ciências e Educação Superior a Distância do Estado do Rio de Janeiro,1
-3,RJ,Fundação de Apoio à Escola Técnica do Estado do Rio de Janeiro,1
-4,PI,Instituto Federal do Piauí,1
-5,TO,Universidade de Guripi,1
-6,SP,Universidade de São Paulo,3
-7,BA,Universidade do Estado da Bahia,6
-8,MT,Universidade do Estado de Mato Grosso,4
-9,SC,Universidade do Estado de Santa Catarina,1
-10,AM,Universidade do Estado do Amazonas,1
-11,RJ,Universidade do Estado do Rio de Janeiro,2
-12,PB,Universidade Estadual da Paraíba,7
-13,SP,Universidade Estadual de Campinas,9
-14,BA,Universidade Estadual de Feira de Santana,3
-15,GO,Universidade Estadual de Goiás,2
-16,PR,Universidade Estadual de Londrina,3
-17,PR,Universidade Estadual de Maringá,4
-18,MS,Universidade Estadual de Mato Grosso do Sul,3
-19,BA,Universidade Estadual de Santa Cruz,1
-20,CE,Universidade Estadual do Ceará,1
-21,RJ,Universidade Estadual do Norte Fluminense,1
-22,PR,Universidade Estadual do Oeste do Paraná,2
-23,PR,Universidade Estadual do Paraná,1
-24,BA,Universidade Estadual do Sudoeste da Bahia,2
-25,CE,Universidade Estadual do Vale do Acaraú,3
-26,PR,Universidade Federal da Integração Latino-Americana,2
-27,PB,Universidade Federal da Paraíba,3
-28,MS,Universidade Federal de Mato Grosso do Sul,3
+,uf_instituicao,instituicao,contagem
+0,ES,Universidade Federal do Espírito Santo,46
+1,SP,Universidade Estadual de Campinas,9
+2,PB,Universidade Estadual da Paraíba,7
+3,BA,Universidade do Estado da Bahia,6
+4,MG,Centro Federal de Educação Tecnológica de Minas Gerais,6
+5,MT,Universidade Federal do Mato Grosso,5
+6,RS,Universidade Federal de Pelotas,4
+7,PR,Universidade Estadual de Maringá,4
+8,PE,Universidade Federal Rural de Pernambuco,4
+9,AM,Universidade Federal do Amazonas,4
+10,MA,Universidade Federal do Maranhão,4
+11,MT,Universidade do Estado de Mato Grosso,4
+12,MG,Universidade Federal de Uberlândia,4
+13,MS,Universidade Estadual de Mato Grosso do Sul,3
+14,PR,Universidade Estadual de Londrina,3
+15,PB,Universidade Federal da Paraíba,3
+16,RJ,Universidade do Estado do Rio de Janeiro,3
+17,SE,Universidade Federal de Sergipe,3
+18,CE,Universidade Estadual Vale do Acaraú,3
+19,BA,Universidade Estadual de Feira de Santana,3
+20,SP,Universidade de São Paulo,3
+21,MG,Universidade Federal de Ouro Preto,2
+22,RS,Universidade Federal do Rio Grande do Sul,2
+23,GO,Universidade Estadual de Goiás,2
+24,RS,Universidade Federal de Rio Grande,2
+25,BA,Universidade Estadual do Sudoeste da Bahia,2
+26,PR,Universidade Estadual do Oeste do Paraná,2
+27,PR,Universidade Federal da Integração Latino-Americana,2
+28,RO,Universidade Federal de Rondônia,2
 29,AL,Universidade Federal de Alagoas,2
-30,MG,Universidade Federal de Ouro Preto,2
-31,RS,Universidade Federal de Pelotas,4
+30,RJ,Universidade Federal do Rio de Janeiro,1
+31,RS,Universidade Federal de Santa Maria,1
+32,SC,Universidade do Estado de Santa Catarina,1
+33,PE,Autarquia de Ensino Superior de Arco Verde Universidade Federal,1
+34,RJ,Universidade Estadual do Norte Fluminense,1
+35,RJ,Fundação de Apoio à Escola Técnica do Estado do Rio de Janeiro,1
+36,PR,Universidade Tecnológica Federal do Paraná,1
+37,PR,Universidade Estadual do Paraná,1
+38,PI,"Instituto Federal de Educação, Ciência e Tecnologia do Piauí",1
+39,PA,Universidade Federal do Pará,1
+40,PA,Universidade Federal do Oeste do Pará,1
+41,CE,Universidade Federal do Ceará,1
+42,CE,Universidade Estadual do Ceará,1
+43,BA,Universidade Estadual de Santa Cruz,1
+44,AP,Universidade Federal do Amapá,1
+45,TO,Universidade de Guripi,1

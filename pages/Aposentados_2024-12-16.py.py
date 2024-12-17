@@ -20,6 +20,7 @@ grafico_aposentados_totais_df = grafico_aposentados_totais_df.drop(columns=grafi
 # Filtrar as respostas completos
 grafico_aposentados_completos_df = pd.read_csv('tabela_aposentados_completos_16_12.csv')
 grafico_aposentados_completos_df = grafico_aposentados_completos_df.drop(columns=grafico_aposentados_completos_df.columns[-1])
+
 # Filtrar as respostas incompletos
 grafico_aposentados_incompletos_df = pd.read_csv('tabela_aposentados_incompletos_16_12.csv')
 grafico_aposentados_incompletos_df = grafico_aposentados_incompletos_df.drop(columns=grafico_aposentados_incompletos_df.columns[-1])

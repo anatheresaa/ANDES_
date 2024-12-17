@@ -8,7 +8,7 @@ import streamlit as st
 st.set_page_config(page_title='Relatório de 16/12/2024', layout='wide', page_icon='📊')
 
 #################### Título da página do Streamlit ####################
-st.markdown('# Relatório de Respostas - 11/12/2024')
+st.markdown('# Relatório de Respostas - 16/12/2024')
 
 #################### Leitura e Tratamento dos Dados ####################
 # Ler os dados originais
@@ -25,7 +25,7 @@ grafico_ativos_incompletos_df = pd.read_csv('tabela_ativos_incompletos_16_12.csv
 grafico_ativos_incompletos_df = grafico_ativos_incompletos_df.drop(columns=grafico_ativos_incompletos_df.columns[-1])
 #################### Layout do Streamlit ####################
 # Criar e nomear as tabs (abas) 
-tab_1, tab_2, tab_3, tab_4 = st.tabs(['Métricas', 'Respostas Totais', 'Respostas completos', 'Respostas Incompletos'])
+tab_1, tab_2, tab_3, tab_4 = st.tabs(['Métricas', 'Respostas Totais', 'Respostas Completas', 'Respostas Incompletas'])
 
 # Preencher a tab 1 (Relatório Geral)
 with tab_1:
@@ -74,9 +74,9 @@ with tab_1:
 # Preencher a tab 2 (Respostas Totais)
 with tab_2:
     # Fazer o gráfico de barras 
-    fig = px.bar(grafico_ativos_totais_df, x='UF', y='Respostas Totais', color='Instituição de Ensino',
-                labels = {'UF':'UF', 'Respostas Totais':'Respostas totais',
-                        'Instituição de Ensino':'Instituição de Ensino'},
+    fig = px.bar(grafico_ativos_totais_df, x='UF', y='Contagem', color='Instituição de ensino',
+                labels = {'UF':'UF', 'Contagem':'Respostas totais',
+                        'Instituição de ensino':'Instituição de Ensino'},
                 title='Respostas Totais por UF e Instituição de Ensino (11/12/2024) - ativos Não-ativos')
     fig.update_yaxes(tick0=0, dtick=10)
     fig.update_layout(showlegend=False)
@@ -91,9 +91,9 @@ with tab_2:
 # Preencher a tab 3 (Respostas completos)
 with tab_3:
     # Fazer o gráfico de barras 
-    fig = px.bar(grafico_ativos_completos_df, x='UF', y='Respostas Totais', color='Instituição de Ensino',
-                labels = {'UF':'UF', 'Respostas Totais':'Respostas completos',
-                        'Instituição de Ensino':'Instituição de ensino'},
+    fig = px.bar(grafico_ativos_completos_df, x='UF', y='Contagem', color='Instituição de ensino',
+                labels = {'UF':'UF', 'Contagem':'Respostas completos',
+                        'Instituição de ensino':'Instituição de ensino'},
                 title='Respostas completos por UF e Instituição de Ensino (11/12/2024) - ativos Não-ativos')
     fig.update_yaxes(tick0=0, dtick=10)
     fig.update_layout(showlegend=False)
@@ -108,9 +108,9 @@ with tab_3:
 # Preencher a tab 4 (Respostas Incompletos)
 with tab_4:
     # Fazer o gráfico de barras 
-    fig = px.bar(grafico_ativos_incompletos_df, x='UF', y='Respostas Incompletos', color='Instituição de Ensino',
-                labels = {'UF':'UF', 'Respostas Incompletos':'Respostas incompletos',
-                        'Instituição de Ensino':'Instituição de ensino'},
+    fig = px.bar(grafico_ativos_incompletos_df, x='UF', y='Contagem', color='Instituição de ensino',
+                labels = {'UF':'UF', 'Contagem':'Respostas incompletos',
+                        'Instituição de ensino':'Instituição de ensino'},
                 title='Respostas Incompletos por UF e Instituição de Ensino (11/12/2024) - ativos Não-ativos')
     fig.update_yaxes(tick0=0, dtick=10)
     fig.update_layout(showlegend=False)

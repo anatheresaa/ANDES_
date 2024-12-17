@@ -54,7 +54,7 @@ with tab_1:
                 
                 # Criar a métrica de restaurantes registrados
                 with col_1:
-                        col_1.metric('Respostas Totais:', 40)
+                        col_1.metric('Respostas Totais:', 42)
                         
                 # Criar a métrica de países registrados
                 with col_2:
@@ -62,7 +62,7 @@ with tab_1:
                         
                 # Criar a métrica de cidades registrados
                 with col_3:
-                        col_1.metric('Respostas Incompletas:', 34)
+                        col_1.metric('Respostas Incompletas:', 26)
                         
                 # Criar a métrica do total de avaliações feitas
                 with col_4:

@@ -69,7 +69,7 @@ with tab_1:
                         
                 # Criar a métrica do total de avaliações feitas
                 with col_4:
-                        col_1.metric('Instituições de Ensino Citadas:', 63)
+                        col_1.metric('Instituições de Ensino Citadas:', 4)
                         
 # Preencher a tab 2 (Respostas Totais)
 with tab_2:

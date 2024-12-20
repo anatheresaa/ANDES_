@@ -1,54 +1,54 @@
-,UF,Instituição de ensino,Respostas completas
-0,ES,Universidade Federal do Espírito Santo,61
-1,SP,Universidade Estadual de Campinas,11
-2,PB,Universidade Estadual da Paraíba,7
-3,MG,Centro Federal de Educação Tecnológica de Minas Gerais,6
-4,BA,Universidade do Estado da Bahia,6
-5,MS,Universidade Estadual de Mato Grosso do Sul,6
-6,RJ,Universidade do Estado do Rio de Janeiro,5
-7,AM,Universidade Federal do Amazonas,5
-8,MT,Universidade Federal do Mato Grosso,5
-9,SP,Universidade de São Paulo,4
-10,MT,Universidade do Estado de Mato Grosso,4
-11,PR,Universidade Estadual de Maringá,4
-12,RS,Universidade Federal de Pelotas,4
-13,SE,Universidade Federal de Sergipe,4
-14,MG,Universidade Federal de Uberlândia,4
-15,MA,Universidade Federal do Maranhão,4
-16,PE,Universidade Federal Rural de Pernambuco,4
-17,BA,Universidade Estadual de Feira de Santana,3
-18,PR,Universidade Estadual de Londrina,3
-19,CE,Universidade Estadual do Vale do Acaraú,3
-20,PB,Universidade Federal da Paraíba,3
-21,MS,Universidade Federal de Mato Grosso do Sul,3
-22,PE,Autarquia de Ensino Superior de Arco Verde Universidade Federal,2
-23,GO,Universidade Estadual de Goiás,2
-24,PR,Universidade Estadual do Oeste do Paraná,2
-25,BA,Universidade Estadual do Sudoeste da Bahia,2
-26,PR,Universidade Federal da Integração Latino-Americana,2
-27,AL,Universidade Federal de Alagoas,2
-28,MG,Universidade Federal de Ouro Preto,2
-29,RS,Universidade Federal de Rio Grande,2
-30,RO,Universidade Federal de Rondônia,2
-31,AC,Universidade Federal do Acre,2
-32,PA,Universidade Federal do Pará,2
-33,RS,Universidade Federal do Rio Grande do Sul,2
-34,PR,Universidade Tecnológica Federal do Paraná,2
-35,RJ,Fundação de Apoio à Escola Técnica do Estado do Rio de Janeiro,1
-36,PI,Instituto Federal do Piauí,1
-37,TO,Universidade de Guripi,1
-38,SC,Universidade do Estado de Santa Catarina,1
-39,AM,Universidade do Estado do Amazonas,1
-40,BA,Universidade Estadual de Santa Cruz,1
-41,CE,Universidade Estadual do Ceará,1
-42,RJ,Universidade Estadual do Norte Fluminense,1
-43,PR,Universidade Estadual do Paraná,1
-44,MS,Universidade Federal da Grande Dourados,1
-45,RS,Universidade Federal de Santa Maria,1
-46,SP,Universidade Federal de São Carlos,1
-47,AP,Universidade Federal do Amapá,1
-48,CE,Universidade Federal do Ceará,1
-49,PA,Universidade Federal do Oeste do Pará,1
-50,RJ,Universidade Federal do Rio de Janeiro,1
-51,RJ,Universidade Federal Fluminense,1
-52,RJ,Universidade Federal Rural do Rio de Janeiro,1
+,UF,Instituição de ensino,Contagem,Porcentagem
+0,ES,Universidade Federal do Espírito Santo,61,30.05%
+1,SP,Universidade Estadual de Campinas,11,5.42%
+2,PB,Universidade Estadual da Paraíba,7,3.45%
+3,MG,Centro Federal de Educação Tecnológica de Minas Gerais,6,2.96%
+4,BA,Universidade do Estado da Bahia,6,2.96%
+5,MS,Universidade Estadual de Mato Grosso do Sul,6,2.96%
+6,RJ,Universidade do Estado do Rio de Janeiro,5,2.46%
+7,AM,Universidade Federal do Amazonas,5,2.46%
+8,MT,Universidade Federal do Mato Grosso,5,2.46%
+9,SP,Universidade de São Paulo,4,1.97%
+10,MT,Universidade do Estado de Mato Grosso,4,1.97%
+11,PR,Universidade Estadual de Maringá,4,1.97%
+12,RS,Universidade Federal de Pelotas,4,1.97%
+13,SE,Universidade Federal de Sergipe,4,1.97%
+14,MG,Universidade Federal de Uberlândia,4,1.97%
+15,MA,Universidade Federal do Maranhão,4,1.97%
+16,PE,Universidade Federal Rural de Pernambuco,4,1.97%
+17,BA,Universidade Estadual de Feira de Santana,3,1.48%
+18,PR,Universidade Estadual de Londrina,3,1.48%
+19,CE,Universidade Estadual do Vale do Acaraú,3,1.48%
+20,PB,Universidade Federal da Paraíba,3,1.48%
+21,MS,Universidade Federal de Mato Grosso do Sul,3,1.48%
+22,PE,Autarquia de Ensino Superior de Arco Verde Universidade Federal,2,0.99%
+23,GO,Universidade Estadual de Goiás,2,0.99%
+24,PR,Universidade Estadual do Oeste do Paraná,2,0.99%
+25,BA,Universidade Estadual do Sudoeste da Bahia,2,0.99%
+26,PR,Universidade Federal da Integração Latino-Americana,2,0.99%
+27,AL,Universidade Federal de Alagoas,2,0.99%
+28,MG,Universidade Federal de Ouro Preto,2,0.99%
+29,RS,Universidade Federal de Rio Grande,2,0.99%
+30,RO,Universidade Federal de Rondônia,2,0.99%
+31,AC,Universidade Federal do Acre,2,0.99%
+32,PA,Universidade Federal do Pará,2,0.99%
+33,RS,Universidade Federal do Rio Grande do Sul,2,0.99%
+34,PR,Universidade Tecnológica Federal do Paraná,2,0.99%
+35,RJ,Fundação de Apoio à Escola Técnica do Estado do Rio de Janeiro,1,0.49%
+36,PI,Instituto Federal do Piauí,1,0.49%
+37,TO,Universidade de Guripi,1,0.49%
+38,SC,Universidade do Estado de Santa Catarina,1,0.49%
+39,AM,Universidade do Estado do Amazonas,1,0.49%
+40,BA,Universidade Estadual de Santa Cruz,1,0.49%
+41,CE,Universidade Estadual do Ceará,1,0.49%
+42,RJ,Universidade Estadual do Norte Fluminense,1,0.49%
+43,PR,Universidade Estadual do Paraná,1,0.49%
+44,MS,Universidade Federal da Grande Dourados,1,0.49%
+45,RS,Universidade Federal de Santa Maria,1,0.49%
+46,SP,Universidade Federal de São Carlos,1,0.49%
+47,AP,Universidade Federal do Amapá,1,0.49%
+48,CE,Universidade Federal do Ceará,1,0.49%
+49,PA,Universidade Federal do Oeste do Pará,1,0.49%
+50,RJ,Universidade Federal do Rio de Janeiro,1,0.49%
+51,RJ,Universidade Federal Fluminense,1,0.49%
+52,RJ,Universidade Federal Rural do Rio de Janeiro,1,0.49%

@@ -77,7 +77,7 @@ with tab_2:
     fig = px.bar(grafico_ativos_totais_df, x='UF', y='Contagem', color='Instituição de ensino',
                 labels = {'UF':'UF', 'Contagem':'Respostas totais',
                         'Instituição de ensino':'Instituição de Ensino'},
-                title='Respostas Totais por UF e Instituição de Ensino (16/12/2024) - Ativos')
+                title='Respostas Totais por UF e Instituição de Ensino (20/12/2024) - Ativos')
     fig.update_yaxes(tick0=0, dtick=10)
     fig.update_layout(showlegend=False)
     st.plotly_chart(fig, use_container_width=True)

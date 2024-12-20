@@ -18,11 +18,11 @@ grafico_aposentados_totais_df = pd.read_csv('tabela_aposentados_totais_20_12.csv
 grafico_aposentados_totais_df = grafico_aposentados_totais_df.drop(columns=grafico_aposentados_totais_df.columns[-1])
 
 # Filtrar as respostas completos
-grafico_aposentados_completos_df = pd.read_csv('tabela_aposentados_completos_16_12.csv')
+grafico_aposentados_completos_df = pd.read_csv('tabela_aposentados_completos_20_12.csv')
 grafico_aposentados_completos_df = grafico_aposentados_completos_df.drop(columns=grafico_aposentados_completos_df.columns[-1])
 
 # Filtrar as respostas incompletos
-grafico_aposentados_incompletos_df = pd.read_csv('tabela_aposentados_incompletos_16_12.csv')
+grafico_aposentados_incompletos_df = pd.read_csv('tabela_aposentados_incompletos_20_12.csv')
 grafico_aposentados_incompletos_df = grafico_aposentados_incompletos_df.drop(columns=grafico_aposentados_incompletos_df.columns[-1])
 #################### Layout do Streamlit ####################
 # Criar e nomear as tabs (abas) 
@@ -78,14 +78,14 @@ with tab_2:
     fig = px.bar(grafico_aposentados_totais_df, x='UF', y='Contagem', color='Instituição de ensino',
                 labels = {'UF':'UF', 'Contagem':'Respostas totais',
                         'Instituição de ensino':'Instituição de Ensino'},
-                title='Respostas Totais por UF e Instituição de Ensino (16/12/2024) - aposentados')
+                title='Respostas Totais por UF e Instituição de Ensino (20/12/2024) - aposentados')
     fig.update_yaxes(tick0=0, dtick=10)
     fig.update_layout(showlegend=False)
     st.plotly_chart(fig, use_container_width=True)
     
     # Mostrar a tabela de respostas
     st.title('Tabela de Respostas Totais')
-    tabela_aposentados_totais_df = pd.read_csv('tabela_aposentados_totais_16_12.csv')
+    tabela_aposentados_totais_df = pd.read_csv('tabela_aposentados_totais_20_12.csv')
     tabela_aposentados_totais_df.drop(columns=tabela_aposentados_totais_df.columns[0], axis=1, inplace=True)
     st.dataframe(tabela_aposentados_totais_df, use_container_width=True) 
        
@@ -95,14 +95,14 @@ with tab_3:
     fig = px.bar(grafico_aposentados_completos_df, x='UF', y='Contagem', color='Instituição de ensino',
                 labels = {'UF':'UF', 'Contagem':'Respostas completas',
                         'Instituição de ensino':'Instituição de ensino'},
-                title='Respostas completos por UF e Instituição de Ensino (16/12/2024) - aposentados')
+                title='Respostas completos por UF e Instituição de Ensino (20/12/2024) - aposentados')
     fig.update_yaxes(tick0=0, dtick=10)
     fig.update_layout(showlegend=False)
     st.plotly_chart(fig, use_container_width=True)
     
     # Mostrar a tabela de respostas
     st.title('Tabela de Respostas completos')
-    tabela_aposentados_completos_df = pd.read_csv('tabela_aposentados_completos_16_12.csv')
+    tabela_aposentados_completos_df = pd.read_csv('tabela_aposentados_completos_20_12.csv')
     tabela_aposentados_completos_df.drop(columns=tabela_aposentados_completos_df.columns[0], axis=1, inplace=True)
     st.dataframe(tabela_aposentados_completos_df, use_container_width=True) 
        
@@ -112,13 +112,13 @@ with tab_4:
     fig = px.bar(grafico_aposentados_incompletos_df, x='UF', y='Contagem', color='Instituição de ensino',
                 labels = {'UF':'UF', 'Contagem':'Respostas incompletas',
                         'Instituição de ensino':'Instituição de ensino'},
-                title='Respostas Incompletos por UF e Instituição de Ensino (16/12/2024) - aposentados')
+                title='Respostas Incompletos por UF e Instituição de Ensino (20/12/2024) - aposentados')
     fig.update_yaxes(tick0=0, dtick=10)
     fig.update_layout(showlegend=False)
     st.plotly_chart(fig, use_container_width=True)
         
     # Mostrar a tabela de respostas
     st.title('Tabela de Respostas Incompletos')
-    tabela_aposentados_incompletos_df = pd.read_csv('tabela_aposentados_incompletos_16_12.csv')
+    tabela_aposentados_incompletos_df = pd.read_csv('tabela_aposentados_incompletos_20_12.csv')
     tabela_aposentados_incompletos_df.drop(columns=tabela_aposentados_incompletos_df.columns[0], axis=1, inplace=True)
     st.dataframe(tabela_aposentados_incompletos_df, use_container_width=True)

@@ -48,7 +48,7 @@ with tab_1:
                         
                 # Criar a métrica do total de avaliações feitas
                 with col_4:
-                        col_1.metric('Instituições de Ensino Citadas:', 134)
+                        col_1.metric('Instituições de Ensino Citadas:', 140)
 
         # Criar as métricas semenais
         with st.container():
@@ -65,7 +65,7 @@ with tab_1:
                         
                 # Criar a métrica de cidades registrados
                 with col_3:
-                        col_1.metric('Respostas Incompletos:', 13160)
+                        col_1.metric('Respostas Incompletos:', 160)
                         
                 # Criar a métrica do total de avaliações feitas
                 with col_4:

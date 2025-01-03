@@ -53,7 +53,7 @@ with tab_1:
 
         # Criar as métricas semenais
         with st.container():
-                st.title('Crescimento Semanal (17/12/2024 a 03/01/2025)')
+                st.title('Crescimento Semanal (20/12/2024 a 03/01/2025)')
                 col_1, col_2, col_3, col_4 = st.columns(4, gap='large')
                 
                 # Criar a métrica de restaurantes registrados

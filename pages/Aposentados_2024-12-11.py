@@ -45,7 +45,7 @@ with tab_1:
                         
                 # Criar a métrica do total de avaliações feitas
                 with col_4:
-                        col_1.metric('Instituições de Ensino Citadas:', 61)
+                        col_1.metric('Instituições de Ensino Citadas:', 52)
 
         # Criar as métricas semenais
         with st.container():
@@ -66,7 +66,7 @@ with tab_1:
                         
                 # Criar a métrica do total de avaliações feitas
                 with col_4:
-                        col_1.metric('Instituições de Ensino Citadas:', 4)
+                        col_1.metric('Instituições de Ensino Citadas:', 0)
                         
 # Preencher a tab 2 (Respostas Totais)
 with tab_2:
